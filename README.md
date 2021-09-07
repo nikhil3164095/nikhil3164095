@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikhil
+- 👋 Hi, I’m Nikhil Patil
 - 👀 I’m interested in Data Science and Macnine Learning
 - 🌱 I’m currently Working as a trainee in a organization and learning data science skills 
 - 💞️ I’m looking for opportunity to work on data sciecne perojects 
